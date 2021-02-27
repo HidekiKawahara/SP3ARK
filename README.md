@@ -4,4 +4,4 @@
 # MATLAB Application
 
 ## waveSpecViewerTw.mlapp
-Please type "waveSpecViewerTw" Then, select the audio output device in the dialogue box.
+Please type "waveSpecViewerTw" Then, select the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
