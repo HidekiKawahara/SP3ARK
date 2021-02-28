@@ -3,5 +3,8 @@
 
 # MATLAB Application
 
-## waveSpecViewerTw.mlapp
+## waveSpecViewerTw.mlapp (Realtime and interactive waveform and power spectrum viewer)
 Please type "waveSpecViewerTw" Then, select the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
+
+## sgramViewerTw.mlapp (Realtime and interactive spectrogram viewer)
+Please type "sgramViewerTw" Then, select the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
