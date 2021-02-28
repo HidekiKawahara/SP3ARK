@@ -10,4 +10,5 @@ Please type "waveSpecViewerTw" Then, select the audio output device in the dialo
 Please type "sgramViewerTw" Then, select the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
 
 # Release note
-## 01 March 2021, Fixed spectrogram time alignment and added colormap selection
+## 01 March 2021, 
+Fixed spectrogram time alignment and added colormap selection
