@@ -1,4 +1,4 @@
-# SP3ARK
+# SP3ARK : up-to-date series of SparkNG (will be)
  MATLAB realtime/interactive tools for Speech Production, Perception, Processing and Analysis Research Kernel. This repository is mainly for teaching myself.
 
 # MATLAB Application
