@@ -3,7 +3,7 @@
 
 # MATLAB Application
 
-## rtSgramWithAcqusition.mlapp (Realtime and interactive waveform and power spectrum viewer with data logging)
+## rtSgramWithAcqusition.mlapp (Realtime and interactive waveform and power spectrum viewer with data logging and calibration)
 Please type "rtSgramWithAcqusition" Then, select the working diredctory and the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
 
 ## waveSpecViewerTw.mlapp (Realtime and interactive waveform and power spectrum viewer)
@@ -13,6 +13,8 @@ Please type "waveSpecViewerTw" Then, select the audio output device in the dialo
 Please type "sgramViewerTw" Then, select the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
 
 # Release note
+## 07 March 2021
+Added sound pressure level calibratio and selection of audio interface
 ## 04 March 2021
 Added data logging and playback
 ## 01 March 2021,
