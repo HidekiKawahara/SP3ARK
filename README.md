@@ -13,6 +13,8 @@ Please type "waveSpecViewerTw" Then, select the audio output device in the dialo
 Please type "sgramViewerTw" Then, select the audio output device in the dialogue box. This requires MATLAB R2018 or later. It also uses Audio Toolbox.
 
 # Release note
+## 09 March 2021
+Independent IO is applicable 
 ## 07 March 2021
 Added sound pressure level calibratio and selection of audio interface
 ## 04 March 2021
